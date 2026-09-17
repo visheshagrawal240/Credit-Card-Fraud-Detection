@@ -1,4 +1,5 @@
-Credit Card Fraud Detection - A machine learning project that detects fraudulent credit card transactions using **XGBoost Classifier**.
+# Credit Card Fraud Detection : 
+A machine learning project that detects fraudulent credit card transactions using **XGBoost Classifier**.
 
 ## 📌 Overview
 
